@@ -1,0 +1,20 @@
+{
+   "0": "empty",
+   "1": "water",
+   "2": "lava",
+   "3": "poison",
+   "5": "tarliquid",
+   "6": "healingliquid",
+   "7": "milk",
+   "8": "corelava",
+   "11": "fuel",
+   "12": "swampwater",
+   "13": "slimeliquid",
+   "17": "jellyliquid",
+   "171": "arcana_liquid_arcaneWater",
+   "172": "arcana_liquid_illuminatedWater",
+   "173": "arcana_liquid_neonWater",
+   "174": "arcana_liquid_ruinousWater",
+   "175": "arcana_liquid_viridescentAcid"
+}
+      

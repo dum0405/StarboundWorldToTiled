@@ -1,0 +1,2503 @@
+{
+  "invisibledelay" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "floodlights" : {
+   "i_0" : [0, 3]
+  },
+  "invisibleand" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "templehiddentrapdoor" : {
+   "o_0" : [1, -1],
+   "i_0" : [-2, 1]
+  },
+  "monarch_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "apexlevel1sign" : {
+   "i_0" : [0, 0]
+  },
+  "invisibleor" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "orion_wireddeco_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_steelAirlock" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "orion_wireddeco_4" : {
+   "i_0" : [0, 0]
+  },
+  "orion_wireddeco_5" : {
+   "i_0" : [0, 0]
+  },
+  "hephaestus_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "orion_wireddeco_7" : {
+   "i_0" : [0, 0]
+  },
+  "orion_wireddeco_8" : {
+   "i_0" : [0, 0]
+  },
+  "brasslamppost1" : {
+   "i_0" : [0, 3]
+  },
+  "bunkerconsole2" : {
+   "i_0" : [0, 2]
+  },
+  "bunkerconsole3" : {
+   "i_0" : [0, 2]
+  },
+  "bunkerconsole4" : {
+   "i_0" : [0, 2]
+  },
+  "retroscifilight" : {
+   "i_0" : [0, 0]
+  },
+  "ancientswitchhidden" : {
+   "o_0" : [0, 0]
+  },
+  "opulentlight" : {
+   "i_0" : [0, 0]
+  },
+  "invisiblemonsterspawner" : {
+   "i_0" : [-1, 1]
+  },
+  "arcana_lunar_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "sealamp" : {
+   "i_0" : [0, 3]
+  },
+  "stationtradesignelectronics" : {
+   "i_0" : [0, 0]
+  },
+  "miningverticaldoor" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "castleswitch" : {
+   "o_0" : [0, 0]
+  },
+  "officecomputer" : {
+   "o_0" : [0, 1]
+  },
+  "alertlight" : {
+   "i_0" : [0, 0]
+  },
+  "foundrynot" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "steamspringdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "screen1" : {
+   "i_0" : [0, 0]
+  },
+  "screen2" : {
+   "i_0" : [0, 0]
+  },
+  "screen3" : {
+   "i_0" : [0, 0]
+  },
+  "screen4" : {
+   "i_0" : [0, 0]
+  },
+  "horizon_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "screen5" : {
+   "i_0" : [0, 0]
+  },
+  "huntingpressureplate" : {
+   "o_0" : [0, 0]
+  },
+  "hylotlshiphatch" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "arcana_lunar_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_lunar_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_lunar_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_lunar_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_lunar_light_5" : {
+   "i_0" : [0, 0]
+  },
+  "laboratorylight" : {
+   "i_0" : [0, 0]
+  },
+  "apexsecuritycamera" : {
+   "o_0" : [0, 0]
+  },
+  "trapchest" : {
+   "o_0" : [0, 0]
+  },
+  "retroscifitv" : {
+   "i_0" : [0, 2]
+  },
+  "dockingfieldsmall" : {
+   "o_0" : [0, 0]
+  },
+  "birddoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "sandstonedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "workshop_auto_foundry_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "outpostsmallmonitor" : {
+   "i_0" : [0, 0]
+  },
+  "frontierlamp" : {
+   "i_0" : [0, 1]
+  },
+  "outpostkeypad" : {
+   "o_0" : [0, -1]
+  },
+  "keypad" : {
+   "o_0" : [0, 0]
+  },
+  "floodlightsmall" : {
+   "i_0" : [0, 0]
+  },
+  "ancientlightround" : {
+   "i_0" : [0, 0]
+  },
+  "foundrybutton" : {
+   "o_0" : [0, -1]
+  },
+  "arcana_luye_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "flowerlamp" : {
+   "i_0" : [0, 0]
+  },
+  "protectoratedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "medievalswitchshackle" : {
+   "o_0" : [0, 0]
+  },
+  "astroconsole" : {
+   "o_0" : [0, 1]
+  },
+  "gothicdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "dirttrapdoor" : {
+   "o_0" : [4, -1],
+   "i_0" : [-5, 1]
+  },
+  "arcana_gilten_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_gilten_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "bunkerpanel1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_laptop_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_laptop_2" : {
+   "i_0" : [0, 0]
+  },
+  "bunkerpanel2" : {
+   "i_0" : [0, 0]
+  },
+  "bunkerpanel3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_laptop_3" : {
+   "i_0" : [0, 0]
+  },
+  "outpostbutton" : {
+   "o_0" : [0, 0]
+  },
+  "bunkerhandscanner" : {
+   "o_0" : [0, -1]
+  },
+  "tinywallbutton" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_animus_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "prisoncamerastation" : {
+   "i_0" : [-1, 2]
+  },
+  "redalert" : {
+   "i_0" : [0, 0]
+  },
+  "geometriclight" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_biome_smoke_ashen" : {
+   "i_0" : [0, 0]
+  },
+  "neonlamppost" : {
+   "i_0" : [0, 5]
+  },
+  "drillconsole" : {
+   "o_0" : [0, 0]
+  },
+  "fleshdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "clubceilinglightsyellow" : {
+   "i_0" : [0, 4]
+  },
+  "bunkercomputer" : {
+   "i_0" : [-1, 1]
+  },
+  "giantflowerlamp" : {
+   "i_0" : [0, 0]
+  },
+  "florandoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "hylotllantern1" : {
+   "i_0" : [0, 0]
+  },
+  "outpostlight" : {
+   "i_0" : [0, 0]
+  },
+  "novakidshipdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "stationhatch" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "egyptianlamp" : {
+   "i_0" : [0, 2]
+  },
+  "workshop_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "wallb" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_light_5" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_light_6" : {
+   "i_0" : [0, 0]
+  },
+  "medievalfireplace" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_aurea_deco_5" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_aurea_deco_6" : {
+   "i_0" : [0, 0]
+  },
+  "doomdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "arcana_aurea_deco_8" : {
+   "o_0" : [0, 0]
+  },
+  "arcanianshipdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "workshop_auto_storage_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "doomswitch" : {
+   "o_0" : [0, 0]
+  },
+  "stationtradesignfood" : {
+   "i_0" : [0, 0]
+  },
+  "bamboodoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "copperceilinglight" : {
+   "i_0" : [0, -2]
+  },
+  "alarm" : {
+   "i_0" : [-1, 0]
+  },
+  "arcana_carnival_skulltorch" : {
+   "i_0" : [0, 1]
+  },
+  "wreckdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "smallwallbutton" : {
+   "o_0" : [0, -1]
+  },
+  "doomlight" : {
+   "i_0" : [0, 0]
+  },
+  "miningpowersign" : {
+   "i_0" : [-1, 0]
+  },
+  "avianwaterlight" : {
+   "i_0" : [0, 0]
+  },
+  "timer" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "floranlamp1" : {
+   "i_0" : [0, 1]
+  },
+  "flametrap" : {
+   "i_0" : [0, 0]
+  },
+  "hylotlpost" : {
+   "i_0" : [-1, 3]
+  },
+  "tarconsole" : {
+   "o_0" : [0, 0]
+  },
+  "arcanianshiphatch" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "workshop_auto_assembler_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "secrettrapdoor" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "wavedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "protectoratelavalamp" : {
+   "i_0" : [0, 0]
+  },
+  "pressuredoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "reedlamp" : {
+   "i_0" : [0, 0]
+  },
+  "lightsensor" : {
+   "o_0" : [0, -1],
+   "o_1" : [0, 1]
+  },
+  "tier1spotlight" : {
+   "i_0" : [0, 0]
+  },
+  "lunarbasedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 2]
+  },
+  "apexshipdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "avianpressureplate" : {
+   "o_0" : [0, 0]
+  },
+  "bigredbutton" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_invisibleprojectile" : {
+   "i_0" : [0, 0]
+  },
+  "foundrydoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "celllamp" : {
+   "i_0" : [0, 0]
+  },
+  "bunkerdisplay1" : {
+   "i_0" : [0, 2]
+  },
+  "bunkerdisplay2" : {
+   "i_0" : [0, 2]
+  },
+  "bunkerdisplay3" : {
+   "i_0" : [0, 2]
+  },
+  "bunkerdisplay4" : {
+   "i_0" : [-1, 0]
+  },
+  "underwaterlightsmall" : {
+   "i_0" : [0, 0]
+  },
+  "outpostairlock" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "arcana_exousia_medical_door_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "foundrydelay" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "apexhdtv" : {
+   "i_0" : [0, 0]
+  },
+  "apexpod" : {
+   "i_0" : [0, 0]
+  },
+  "royalcandles" : {
+   "i_0" : [0, 3]
+  },
+  "arenaflametrap" : {
+   "i_0" : [0, 0]
+  },
+  "timer1s" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "arcana_wired_darkscanner" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_scorpio_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "jumppad" : {
+   "i_0" : [-1, 0]
+  },
+  "arcana_exousia_tech_wireddeco_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_tech_wireddeco_2" : {
+   "i_0" : [0, 0]
+  },
+  "invisibleproximitysensor" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_exousia_tech_wireddeco_3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_romantic_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_tech_wireddeco_4" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_anarkyons_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_romantic_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_tech_wireddeco_5" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_romantic_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_anarkyons_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_romantic_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_tech_wireddeco_6" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_anarkyons_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_tech_wireddeco_7" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_anarkyons_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_tech_wireddeco_8" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_tech_wireddeco_9" : {
+   "i_0" : [0, 0]
+  },
+  "clubceilinglights" : {
+   "i_0" : [0, 4]
+  },
+  "arcana_catacomb_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_catacomb_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_catacomb_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "sewervalve" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_catacomb_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "officelamp" : {
+   "i_0" : [-1, 3]
+  },
+  "arcana_catacomb_light_5" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_catacomb_light_6" : {
+   "i_0" : [0, 0]
+  },
+  "tier4door" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "arcana_exousia_tech_console_1" : {
+   "o_0" : [0, 0]
+  },
+  "apexfightlantern" : {
+   "i_0" : [0, 0]
+  },
+  "screenplanet" : {
+   "i_0" : [0, 0]
+  },
+  "numisign" : {
+   "i_0" : [0, 0]
+  },
+  "foundryand" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "avianshiphatch" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "aeolus_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "bardoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "hivelamp" : {
+   "i_0" : [0, 2]
+  },
+  "glitchshipdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "arcana_astral_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_auto_essenceextractor2_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "arcana_astral_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_astral_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "bunkermotiondetector" : {
+   "o_0" : [0, 0]
+  },
+  "shieldgenerator" : {
+   "i_0" : [-1, 0]
+  },
+  "humangenerator" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 2]
+  },
+  "arcana_astral_wireddeco_1" : {
+   "i_0" : [0, 0]
+  },
+  "xor" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "arcana_astral_wireddeco_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_astral_wireddeco_3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_astral_wireddeco_4" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_astral_wireddeco_5" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_astral_wireddeco_6" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_astral_wireddeco_7" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_astral_wireddeco_8" : {
+   "i_0" : [0, 0]
+  },
+  "solarpanel" : {
+   "o_0" : [0, -1],
+   "o_1" : [0, 1]
+  },
+  "mechanicalelevatorlong" : {
+   "i_0" : [0, 0]
+  },
+  "triballamp" : {
+   "i_0" : [0, 0]
+  },
+  "prisonfloodlight" : {
+   "i_0" : [0, 0]
+  },
+  "outpostsecurityconsole" : {
+   "o_0" : [0, 0]
+  },
+  "futurelight" : {
+   "i_0" : [0, 0]
+  },
+  "timer2s" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "astrolight" : {
+   "i_0" : [0, 0]
+  },
+  "islandlamp" : {
+   "i_0" : [0, 0]
+  },
+  "huntinggroundtorch" : {
+   "i_0" : [0, 1]
+  },
+  "neonlight" : {
+   "i_0" : [0, 0]
+  },
+  "gaea_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "gaea_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "bluelight" : {
+   "i_0" : [0, 0]
+  },
+  "apexstatue3" : {
+   "o_0" : [0, 0]
+  },
+  "plantdoor1" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "plantdoor2" : {
+   "o_0" : [0, -4],
+   "i_0" : [0, 0]
+  },
+  "bouldertrap" : {
+   "i_0" : [0, 0]
+  },
+  "humanshiphatch" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "dockingfield" : {
+   "o_0" : [0, 0]
+  },
+  "classiccandlestick" : {
+   "i_0" : [0, 0]
+  },
+  "countdowntimer" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "apexshiplightBroken" : {
+   "i_0" : [0, 0]
+  },
+  "frontierlamppost" : {
+   "i_0" : [0, 6]
+  },
+  "volcanictrap" : {
+   "i_0" : [0, 0]
+  },
+  "stationtradesignmedic" : {
+   "i_0" : [0, 0]
+  },
+  "crystallamp" : {
+   "i_0" : [0, 0]
+  },
+  "railstop" : {
+   "i_0" : [0, 0]
+  },
+  "villagedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "arcana_runic_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_runic_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_runic_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_runic_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_runic_light_5" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_runic_light_6" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_runic_light_7" : {
+   "i_0" : [0, 0]
+  },
+  "castlehiddentrapdoor" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 1]
+  },
+  "frontierdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "arcana_scorpio_clublight_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_scorpio_clublight_2" : {
+   "i_0" : [0, 0]
+  },
+  "timer3s" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "shroomlamp" : {
+   "i_0" : [0, 0]
+  },
+  "avianshipdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "foundryswitch" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "arcana_aurea_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "railswitch" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_aurea_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_aurea_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "apexlamp1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_romantic_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "apexlamp2" : {
+   "i_0" : [0, 3]
+  },
+  "apexlamp3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_cyberpunk_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_cyberpunk_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "durasteelelevatorshort" : {
+   "i_0" : [0, 0]
+  },
+  "opulentswitch" : {
+   "o_0" : [0, 0]
+  },
+  "oillanterntall" : {
+   "i_0" : [-1, 4]
+  },
+  "arcana_misc_urbanLamp" : {
+   "i_0" : [0, 0]
+  },
+  "displaylight" : {
+   "i_0" : [0, 0]
+  },
+  "woodenelevatorshort" : {
+   "i_0" : [0, 1]
+  },
+  "prisondoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "medievalstreetlamp" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_archaic_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "arcana_misc_urbanWideCeilingLamp" : {
+   "i_0" : [0, 0]
+  },
+  "tinywallswitch" : {
+   "o_0" : [0, 0]
+  },
+  "apexbananasign" : {
+   "i_0" : [0, 0]
+  },
+  "ancientcrystaltrap" : {
+   "i_0" : [0, 0]
+  },
+  "sereneswitch" : {
+   "o_0" : [0, 0]
+  },
+  "giantflowerdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "horizon_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "horizon_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "outpostconsole" : {
+   "o_0" : [0, 0]
+  },
+  "horizon_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "airlockdoor" : {
+   "o_0" : [1, 0],
+   "i_0" : [-1, 7]
+  },
+  "stationdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "prisonfloodlightBroken" : {
+   "i_0" : [0, 0]
+  },
+  "foundryor" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "bardoor2sideways" : {
+   "o_0" : [2, 0],
+   "i_0" : [-2, 0]
+  },
+  "lamppost1" : {
+   "i_0" : [0, 5]
+  },
+  "lamppost2" : {
+   "i_0" : [0, 5]
+  },
+  "lamppost3" : {
+   "i_0" : [0, 4]
+  },
+  "timer4s" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "arcana_luye_wireddeco_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_luye_wireddeco_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_luye_wireddeco_3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_luye_wireddeco_4" : {
+   "i_0" : [0, 0]
+  },
+  "apexstoresign" : {
+   "i_0" : [0, 3]
+  },
+  "arcana_exousia_ship_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "apexshiphatch" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "sprinkler" : {
+   "i_0" : [0, 0]
+  },
+  "hylotlliquidsensor" : {
+   "o_0" : [0, 0]
+  },
+  "smallwallswitchlit" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "invisibletimer" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "woodengate" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 2]
+  },
+  "glowbushlamp" : {
+   "i_0" : [0, 0]
+  },
+  "invisiblesound" : {
+   "i_0" : [0, 0]
+  },
+  "freezetrap" : {
+   "i_0" : [0, 0]
+  },
+  "peacekeepercomputer" : {
+   "o_0" : [0, 0]
+  },
+  "invisiblewallswitch" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "smallwallswitch" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "workshop_console_1" : {
+   "o_0" : [0, 0]
+  },
+  "workshop_console_2" : {
+   "o_0" : [0, 0]
+  },
+  "magmalamp" : {
+   "i_0" : [0, 0]
+  },
+  "foundrydlatch" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "bleuark_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "bleuark_door_2" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "ancientpressureplate" : {
+   "o_0" : [0, 0]
+  },
+  "portcullis" : {
+   "o_0" : [0, -4],
+   "i_0" : [0, 0]
+  },
+  "workshop_auto_lathe_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "planttorch" : {
+   "i_0" : [0, 0]
+  },
+  "foundrytimer1s" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "foundryelevatorshort" : {
+   "i_0" : [0, 0]
+  },
+  "sandstonetorch" : {
+   "i_0" : [0, 0]
+  },
+  "avianswitchhidden1" : {
+   "o_0" : [0, 0]
+  },
+  "serenedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "organictorch" : {
+   "i_0" : [0, 0]
+  },
+  "avianswitchhidden2" : {
+   "o_0" : [0, 0]
+  },
+  "miniknogintel1" : {
+   "i_0" : [0, 0]
+  },
+  "drain" : {
+   "i_0" : [0, 0]
+  },
+  "lavalamp1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_lunar_trap_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_lunar_trap_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_lunar_trap_3" : {
+   "i_0" : [0, 0]
+  },
+  "dlatch" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "reeddoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "frontiergramophone" : {
+   "i_0" : [0, 0]
+  },
+  "powerbooster" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_steelblades_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "lunarbaselaser" : {
+   "o_0" : [0, 2],
+   "o_1" : [1, 2],
+   "i_0" : [0, 0],
+   "i_1" : [1, 0],
+   "i_2" : [1, 1],
+   "i_3" : [2, 1]
+  },
+  "timer5s" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "arcana_runic_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "skulltorch" : {
+   "i_0" : [0, 1]
+  },
+  "celldoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "arcana_generator_orion" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 2]
+  },
+  "apextv" : {
+   "i_0" : [0, 0]
+  },
+  "executivedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "workshop_auto_burner" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "cultistairlockbossdoor" : {
+   "o_0" : [1, 0],
+   "i_0" : [-1, 7]
+  },
+  "executiveswitch" : {
+   "o_0" : [0, 0]
+  },
+  "torch" : {
+   "i_0" : [0, 0]
+  },
+  "darkcomputer" : {
+   "o_0" : [0, 0]
+  },
+  "proximitysensor" : {
+   "o_0" : [0, 0]
+  },
+  "monsterspawner" : {
+   "i_0" : [-1, 0]
+  },
+  "arcana_aurea_door_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "arcana_aurea_door_2" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "arcana_misc_urbanControlPanel" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_exousia_modern_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "cultistairlockhatch" : {
+   "o_0" : [4, -1],
+   "i_0" : [-3, 1]
+  },
+  "foundrytimer2s" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "industrialcomputer" : {
+   "o_0" : [0, 0]
+  },
+  "not" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "workshop_auto_essenceextractor_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "havencrest_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "railtramstop" : {
+   "o_0" : [0, -1],
+   "i_0" : [0, 0],
+   "i_1" : [0, 1]
+  },
+  "classiclightart" : {
+   "i_0" : [0, 0]
+  },
+  "medievalcandle" : {
+   "i_0" : [0, 0]
+  },
+  "apexshiplight" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_ventGateVertical" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "smokemachine" : {
+   "i_0" : [0, 0]
+  },
+  "stationlighth" : {
+   "i_0" : [0, 0]
+  },
+  "geometricdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "hivedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "largecastledoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 7]
+  },
+  "stationlightv" : {
+   "i_0" : [0, 0]
+  },
+  "horizon_wireddeco_1" : {
+   "i_0" : [0, 0]
+  },
+  "ancienticetrap" : {
+   "i_0" : [0, 0]
+  },
+  "tribaldoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "medievalswitchhidden" : {
+   "o_0" : [0, 0]
+  },
+  "floranbouldertrap" : {
+   "i_0" : [0, 0]
+  },
+  "miningdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "foundrytimer3s" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "spaceslideshow" : {
+   "i_0" : [0, 0]
+  },
+  "bunkerceilinglight1" : {
+   "i_0" : [0, -3]
+  },
+  "tier3door" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "bunkerceilinglight2" : {
+   "i_0" : [0, -2]
+  },
+  "apexconsole1" : {
+   "o_0" : [0, 0]
+  },
+  "outposthatchlarge" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "arcana_exousia_modern_door_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_modern_door_2" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_modern_door_3" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "plasmadisc" : {
+   "i_0" : [0, 0]
+  },
+  "templehiddendoor" : {
+   "o_0" : [1, 0],
+   "i_0" : [-1, 4]
+  },
+  "landmine" : {
+   "o_0" : [0, 0]
+  },
+  "ancienttorch" : {
+   "i_0" : [0, 0]
+  },
+  "bunkereyescanner" : {
+   "o_0" : [0, -1]
+  },
+  "orion_wireddeco_4_breakable" : {
+   "i_0" : [0, 0]
+  },
+  "geodedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "secretsign1" : {
+   "i_0" : [0, 0]
+  },
+  "secretsign2" : {
+   "i_0" : [0, 0]
+  },
+  "secretsign3" : {
+   "i_0" : [0, 0]
+  },
+  "huntinglight1" : {
+   "i_0" : [0, 0]
+  },
+  "outpostrailairlock" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 6]
+  },
+  "spookypumpkinhead" : {
+   "i_0" : [0, 0]
+  },
+  "penguinbasedoor" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "arcana_biome_smoke_nightmist" : {
+   "i_0" : [0, 0]
+  },
+  "foundryelevatorlong" : {
+   "i_0" : [0, 0]
+  },
+  "wavelight" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_hologram_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_hologram_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_hologram_3" : {
+   "i_0" : [0, 0]
+  },
+  "clubceilinglightsred" : {
+   "i_0" : [0, 4]
+  },
+  "arcana_misc_hologram_4" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_hologram_5" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_hologram_6" : {
+   "i_0" : [0, 0]
+  },
+  "ancientsmallconsole" : {
+   "o_0" : [0, 0]
+  },
+  "plantpanel" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_misc_slidingWindow" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "rainbowdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "redlight" : {
+   "i_0" : [0, 0]
+  },
+  "statuslight" : {
+   "i_0" : [0, 0]
+  },
+  "aliendoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "crystaltorch" : {
+   "i_0" : [0, 0]
+  },
+  "castledoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "floranlight" : {
+   "i_0" : [0, 0]
+  },
+  "shroomdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "scanner" : {
+   "o_0" : [0, 0]
+  },
+  "or" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "bleuark_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "bleuark_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "bleuark_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "foundrytimer4s" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "bleuark_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "bleuark_light_5" : {
+   "i_0" : [0, 0]
+  },
+  "medievalarmorswitch" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_runic_button_1" : {
+   "o_0" : [0, 0]
+  },
+  "penguinbarlamp" : {
+   "i_0" : [0, -2]
+  },
+  "stationrailhatch" : {
+   "o_0" : [3, -1],
+   "i_0" : [-3, 0]
+  },
+  "classicbardoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "arcana_exousia_science_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_science_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight1" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight2" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight3" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight4" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight5" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight6" : {
+   "i_0" : [0, 0]
+  },
+  "solar_deco_1" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight7" : {
+   "i_0" : [0, 1]
+  },
+  "ancientstriplight8" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight9" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_neonwave_deco_5" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_neonwave_deco_6" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_neonwave_deco_7" : {
+   "i_0" : [0, 0]
+  },
+  "serenelight" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_neonwave_deco_9" : {
+   "i_0" : [0, 0]
+  },
+  "proximitywallsensor" : {
+   "o_0" : [0, 0]
+  },
+  "ancientlight" : {
+   "i_0" : [0, 0]
+  },
+  "hylotlbutton" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_misc_urbanControlSwitch" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_stone_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "ancientflametrap" : {
+   "i_0" : [0, 0]
+  },
+  "birdgroundlantern" : {
+   "i_0" : [0, 1]
+  },
+  "foundrytimer" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "classiclight" : {
+   "i_0" : [0, 0]
+  },
+  "arcadedance" : {
+   "i_0" : [0, 3]
+  },
+  "arcana_syntek_deco_3" : {
+   "i_0" : [0, 0]
+  },
+  "foundrytimer5s" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "arcana_misc_greenTelevision" : {
+   "i_0" : [0, 0]
+  },
+  "castledungeondoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "arcana_romantic_deco_10" : {
+   "i_0" : [0, 0]
+  },
+  "ancientpillar" : {
+   "i_0" : [0, 0]
+  },
+  "lunarbaselantern" : {
+   "i_0" : [0, 0]
+  },
+  "apexceilingtv" : {
+   "i_0" : [0, -2]
+  },
+  "workshop_wireddeco_1" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_wireddeco_2" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_wireddeco_3" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_wireddeco_4" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_wireddeco_5" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_wireddeco_6" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_wireddeco_7" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_wireddeco_8" : {
+   "i_0" : [0, 0]
+  },
+  "mysteriouslight" : {
+   "i_0" : [0, 0]
+  },
+  "empress_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "empress_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "ancientlightplatform" : {
+   "o_0" : [2, 0],
+   "i_0" : [-2, 0]
+  },
+  "orion_light_10" : {
+   "i_0" : [0, 0]
+  },
+  "hylotlconsole" : {
+   "o_0" : [0, 0]
+  },
+  "hylotlshipdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "foundryconsole" : {
+   "o_0" : [0, 0]
+  },
+  "ancientbouldertrap" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_stationLight" : {
+   "i_0" : [0, 0]
+  },
+  "invisiblexor" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "skullwalltorch" : {
+   "i_0" : [0, 1]
+  },
+  "durasteelelevatorlong" : {
+   "i_0" : [0, 0]
+  },
+  "outpostslidingdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "ancientverticaldoor" : {
+   "o_0" : [2, 0],
+   "i_0" : [-2, 0]
+  },
+  "and" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "penguinbarsign" : {
+   "i_0" : [0, 0]
+  },
+  "pumpsign" : {
+   "i_0" : [-1, 0]
+  },
+  "woodendoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "displaylightbroken" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_luye_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "humanshipdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "saloonlight" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_machineryLight_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_slidingDoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "mechanicalelevatorshort" : {
+   "i_0" : [0, 0]
+  },
+  "prismlamp1" : {
+   "i_0" : [-1, 1]
+  },
+  "prismlamp2" : {
+   "i_0" : [-1, 1]
+  },
+  "prismlamp3" : {
+   "i_0" : [-1, 1]
+  },
+  "slidingdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "underwaterlightsmallbroken" : {
+   "i_0" : [0, 0]
+  },
+  "floodlightsmallflickering" : {
+   "i_0" : [0, 0]
+  },
+  "woodenverticaldoor" : {
+   "o_0" : [2, 0],
+   "i_0" : [-2, 0]
+  },
+  "classicdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "bulb" : {
+   "i_0" : [-1, 0]
+  },
+  "glowvinelamp" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_wired_darkwallbutton" : {
+   "o_0" : [0, -1]
+  },
+  "huntingdoor1" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "tier1switch" : {
+   "o_0" : [0, 0]
+  },
+  "cultistairlockdoor" : {
+   "o_0" : [1, 0],
+   "i_0" : [-1, 7]
+  },
+  "hylotlredalert" : {
+   "i_0" : [0, 0]
+  },
+  "studylamp" : {
+   "i_0" : [0, 1]
+  },
+  "prismdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "industriallight" : {
+   "i_0" : [0, 0]
+  },
+  "floranshiphatch" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "peacekeeperlamppost" : {
+   "i_0" : [0, 5]
+  },
+  "monarch_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "hylotlradio" : {
+   "i_0" : [0, 0]
+  },
+  "orion_elevator_1" : {
+   "i_0" : [0, 0]
+  },
+  "airlockhatch" : {
+   "o_0" : [4, -1],
+   "i_0" : [-3, 1]
+  },
+  "arcana_aurea_deco_19" : {
+   "i_0" : [0, 0]
+  },
+  "smallfloorbutton" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_archaic_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_archaic_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_archaic_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_archaic_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_archaic_light_5" : {
+   "i_0" : [0, 0]
+  },
+  "tier2switch" : {
+   "o_0" : [0, 0]
+  },
+  "stationtradesignweapons" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_studio_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_studio_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_studio_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_studio_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "cultistdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "apexturret" : {
+   "o_0" : [0, 0]
+  },
+  "gaea_door_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "liquidsensor" : {
+   "o_0" : [0, 0]
+  },
+  "cabinlamp" : {
+   "i_0" : [0, 3]
+  },
+  "workshop_auto_extractor_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "outpostceilinglight" : {
+   "i_0" : [0, 0]
+  },
+  "prisonexitsign" : {
+   "i_0" : [0, 0]
+  },
+  "foundrycountdowntimer" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "tarlight" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_auto_coalgenerator_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "speedbooster" : {
+   "i_0" : [0, 0]
+  },
+  "smalllamppost" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_engineering_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_engineering_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "tier3switch" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_exousia_engineering_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_engineering_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_engineering_light_5" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_engineering_light_6" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_engineering_light_7" : {
+   "i_0" : [0, 0]
+  },
+  "redlightBroken" : {
+   "i_0" : [0, 0]
+  },
+  "toxiclamp1" : {
+   "i_0" : [0, 3]
+  },
+  "tier2door" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "toxiclamp2" : {
+   "i_0" : [0, -2]
+  },
+  "bardoor2" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "bardoor3" : {
+   "o_0" : [1, 0],
+   "i_0" : [-2, 9]
+  },
+  "ancientbust" : {
+   "i_0" : [0, 0]
+  },
+  "gothiclight" : {
+   "i_0" : [0, 4]
+  },
+  "wrecktv" : {
+   "i_0" : [0, 0]
+  },
+  "bunkertable3" : {
+   "i_0" : [0, 1]
+  },
+  "astromonitor" : {
+   "i_0" : [0, 1]
+  },
+  "medievaltorch" : {
+   "i_0" : [0, 0]
+  },
+  "ornatetorch" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_ventGateHorizontal" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "outpostlamp" : {
+   "i_0" : [0, 0]
+  },
+  "horizon_deco_3" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_auto_pump" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "industrialdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "prisonpanel" : {
+   "i_0" : [-1, 1]
+  },
+  "workshop_door_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "tier4switch" : {
+   "o_0" : [0, 0]
+  },
+  "copperlantern" : {
+   "i_0" : [0, 0]
+  },
+  "woodentalllantern" : {
+   "i_0" : [0, 2]
+  },
+  "hylotlswitch" : {
+   "o_0" : [0, 0]
+  },
+  "bunkerserver" : {
+   "i_0" : [0, 3]
+  },
+  "boilervalve" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_misc_roadLightPost" : {
+   "i_0" : [0, 0]
+  },
+  "slimetorch" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_urbanFloorLamp" : {
+   "i_0" : [0, 0]
+  },
+  "apexpod2" : {
+   "i_0" : [0, 0]
+  },
+  "consoletribal1" : {
+   "o_0" : [0, 0]
+  },
+  "peacekeeperdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "consoletribal2" : {
+   "o_0" : [0, 0]
+  },
+  "consoletribal3" : {
+   "o_0" : [0, 0]
+  },
+  "consoletribal4" : {
+   "o_0" : [0, 0]
+  },
+  "castlehiddendoor" : {
+   "o_0" : [1, 0],
+   "i_0" : [-1, 4]
+  },
+  "mechbeacon" : {
+   "i_0" : [0, 0]
+  },
+  "delay" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "opulentdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "arcana_misc_traditionalLantern_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_astral_door_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "arcana_astral_door_2" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "arcana_astral_door_3" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "geometricswitch" : {
+   "o_0" : [0, 0]
+  },
+  "arcana_misc_elevatorButton" : {
+   "o_0" : [0, 0]
+  },
+  "prisoncontrolpanel" : {
+   "o_0" : [0, 0]
+  },
+  "electricdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "protectorateradio" : {
+   "i_0" : [0, 0]
+  },
+  "neonpeacekeeperemblem" : {
+   "i_0" : [0, 0]
+  },
+  "ancientdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "invisiblenot" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "electriclight" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_ice_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 7]
+  },
+  "outpostairlocklarge" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 6]
+  },
+  "arcana_scorpio_deco_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_scorpio_deco_5" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_scorpio_deco_7" : {
+   "i_0" : [0, 0]
+  },
+  "clubdecks" : {
+   "i_0" : [0, 0]
+  },
+  "bunkerbigpanel" : {
+   "i_0" : [0, 0]
+  },
+  "steamspringlamp" : {
+   "i_0" : [0, 2]
+  },
+  "persistentswitch" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0],
+   "i_1" : [-1, -1]
+  },
+  "neonhologram" : {
+   "o_0" : [0, 0]
+  },
+  "hylotllamp" : {
+   "i_0" : [0, 0]
+  },
+  "minidronerack" : {
+   "i_0" : [-1, 2]
+  },
+  "outpostrailhatch" : {
+   "o_0" : [3, -1],
+   "i_0" : [-3, 0]
+  },
+  "geodeceilinglight" : {
+   "i_0" : [0, 0]
+  },
+  "apexapesign" : {
+   "i_0" : [0, 0]
+  },
+  "bunkerlighth" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_laptop" : {
+   "i_0" : [0, 0]
+  },
+  "orion_door_1" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "orion_door_2" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "rainbowwooddoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "solar_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_urbanMonitor" : {
+   "i_0" : [0, 0]
+  },
+  "bunkerlightv" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_urbanCeilingLamp" : {
+   "i_0" : [0, 0]
+  },
+  "waveswitch" : {
+   "o_0" : [0, 0]
+  },
+  "lunarbaseconsole" : {
+   "o_0" : [0, 0]
+  },
+  "hangingguardian" : {
+   "i_0" : [0, 0]
+  },
+  "workshop_railhatch_1" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "foundryxor" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "icedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "jukebox" : {
+   "i_0" : [0, 0]
+  },
+  "floranchandelier" : {
+   "i_0" : [0, 0]
+  },
+  "apexflusign" : {
+   "i_0" : [0, 0]
+  },
+  "protectoratehologlobe" : {
+   "i_0" : [0, 0]
+  },
+  "wooddoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "lasertripwire" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 0]
+  },
+  "apexconsolekeyboard" : {
+   "o_0" : [0, 0]
+  },
+  "ancienthiddenplatform" : {
+   "o_0" : [2, 0],
+   "i_0" : [-2, 0]
+  },
+  "apexslidingdoor1" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "apexslidingdoor2" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "tier2light" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_general_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_general_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_tech_wireddeco_10" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_exousia_tech_wireddeco_11" : {
+   "i_0" : [0, 0]
+  },
+  "hylotlshojidoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "woodenelevatorlong" : {
+   "i_0" : [0, 1]
+  },
+  "tier3light" : {
+   "i_0" : [0, 0]
+  },
+  "medievallamp" : {
+   "i_0" : [0, 0]
+  },
+  "tardoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "sewerflooddoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "astroceilingmonitor" : {
+   "i_0" : [0, -2]
+  },
+  "arcana_wired_darkwallswitch" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "spookycandles" : {
+   "i_0" : [0, 0]
+  },
+  "tier4light" : {
+   "i_0" : [0, 0]
+  },
+  "pastellight" : {
+   "i_0" : [0, 0]
+  },
+  "stationdoorlarge" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 6]
+  },
+  "hephaestus_door_1" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "fluorescentlight" : {
+   "i_0" : [0, 0]
+  },
+  "hephaestus_door_2" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "foundrylight" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_runic_switch_1" : {
+   "o_0" : [0, 0]
+  },
+  "medievalchandelier" : {
+   "i_0" : [0, -1]
+  },
+  "invisiblecountdowntimer" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0]
+  },
+  "medievalswitchlever" : {
+   "o_0" : [0, 0]
+  },
+  "secretdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "sunmodel" : {
+   "i_0" : [0, -2]
+  },
+  "arcana_misc_ceilingFan" : {
+   "i_0" : [0, 0]
+  },
+  "bleuark_deco_19" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_biome_spark_cerueon" : {
+   "i_0" : [0, 0]
+  },
+  "bunkerslidingdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "aeolus_trap_2" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_laptop_hackable" : {
+   "i_0" : [0, 0]
+  },
+  "greenredlight" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight10" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight11" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight12" : {
+   "i_0" : [0, 0]
+  },
+  "ancientstriplight13" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_ice_light_1" : {
+   "i_0" : [0, -1]
+  },
+  "executivelight" : {
+   "i_0" : [0, 0]
+  },
+  "apexcooldoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "classicchandelier" : {
+   "i_0" : [0, 0]
+  },
+  "stonedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "bunkertv" : {
+   "i_0" : [0, 0]
+  },
+  "laboratoryverticaldoor" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "arcana_generator_bleuark" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 2]
+  },
+  "arcana_steelblades_wireddeco_1" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_steelblades_wireddeco_2" : {
+   "i_0" : [0, 0]
+  },
+  "scorchedlandmine" : {
+   "o_0" : [0, 0]
+  },
+  "eyedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "glitchshiphatch" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "oillantern1" : {
+   "i_0" : [0, 0]
+  },
+  "novakidshiphatch" : {
+   "o_0" : [2, -1],
+   "i_0" : [-2, 0]
+  },
+  "orion_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "orion_light_2" : {
+   "i_0" : [0, 0]
+  },
+  "orion_light_3" : {
+   "i_0" : [0, 0]
+  },
+  "orion_light_4" : {
+   "i_0" : [0, 0]
+  },
+  "orion_light_5" : {
+   "i_0" : [0, 0]
+  },
+  "orion_light_6" : {
+   "i_0" : [0, 0]
+  },
+  "orion_light_7" : {
+   "i_0" : [0, 0]
+  },
+  "orion_light_8" : {
+   "i_0" : [0, 0]
+  },
+  "apexrecordplayer" : {
+   "i_0" : [0, 2]
+  },
+  "orion_light_9" : {
+   "i_0" : [0, 0]
+  },
+  "railsensor" : {
+   "o_0" : [0, 0]
+  },
+  "cavelamp" : {
+   "i_0" : [0, 0]
+  },
+  "orion_console_1" : {
+   "o_0" : [0, 0]
+  },
+  "orion_console_2" : {
+   "i_0" : [0, 0]
+  },
+  "orion_console_3" : {
+   "i_0" : [0, 0]
+  },
+  "orion_console_4" : {
+   "o_0" : [0, 0]
+  },
+  "apextablelamp" : {
+   "i_0" : [0, 0]
+  },
+  "manholedoor" : {
+   "o_0" : [2, 0],
+   "i_0" : [-2, 0]
+  },
+  "floranshipdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "steampunklamp" : {
+   "i_0" : [0, 0]
+  },
+  "arcana_misc_industrialLight_1" : {
+   "i_0" : [0, 0]
+  },
+  "invisibledlatch" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, -1],
+   "i_1" : [-1, 0]
+  },
+  "glowflowerlamp" : {
+   "i_0" : [0, 0]
+  },
+  "invisiblepersistentswitch" : {
+   "o_0" : [0, -1],
+   "i_0" : [-1, 0],
+   "i_1" : [-1, -1]
+  },
+  "wiredcustomsign" : {
+   "o_0" : [1, 0],
+   "i_0" : [-2, 0]
+  },
+  "wiredtarget" : {
+   "o_0" : [0, 0]
+  },
+  "workshop_auto_locker" : {
+   "o_0" : [1, 0],
+   "i_0" : [0, 0]
+  },
+  "stationdisplay" : {
+   "i_0" : [0, 0]
+  },
+  "industrialdisplay" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 1]
+  },
+  "standingturret" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 1]
+  },
+  "jumpbooster" : {
+   "i_0" : [0, 0]
+  },
+  "clubceilinglightsgreen" : {
+   "i_0" : [0, 4]
+  },
+  "arcana_neonwave_light_1" : {
+   "i_0" : [0, 0]
+  },
+  "bonedoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "crystaltrap" : {
+   "i_0" : [0, 0]
+  },
+  "ironswitch" : {
+   "o_0" : [0, 0]
+  },
+  "neontriangle" : {
+   "i_0" : [0, 0]
+  },
+  "irondoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "stationconsole" : {
+   "o_0" : [0, 2]
+  },
+  "outpostmonitor" : {
+   "i_0" : [0, 0]
+  },
+  "airbooster" : {
+   "i_0" : [0, 0]
+  },
+  "medievalbookcaseswitch" : {
+   "o_0" : [0, 0]
+  },
+  "astrodoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [-1, 4]
+  },
+  "rustdoor" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "tier1door" : {
+   "o_0" : [0, 0],
+   "i_0" : [0, 4]
+  },
+  "medievalpressureplate" : {
+   "o_0" : [0, 0]
+  }
+ }
