@@ -2,6 +2,13 @@
 
 # How to Use
 
+# 0. Install Python, then install the `py-starbound` and `numpy` libraries:
+
+pip install py-starbound
+
+pip install numpy
+
+
 # 1. After installing OpenStarbound, run the following commands in-game to extract data:
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -27,7 +34,7 @@
 # 2. Copy the resulting JSON text from the log file and paste it into the corresponding .json file listed above.
 
 
-# 3. Finally, open worldToTiledMap.py and update the following variables at the top of the file: 'worldToTiled.py'
+# 3. Finally, open 'worldToTiled.py' and modify the path to the following variables at the top of the file:
 
 'world_name'
 
