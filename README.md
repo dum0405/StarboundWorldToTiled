@@ -27,7 +27,7 @@
 # 2. Copy the resulting JSON text from the log file and paste it into the corresponding .json file listed above.
 
 
-# 3. Finally, open worldToTiledMap.py and update the following variables at the top of the file:
+# 3. Finally, open worldToTiledMap.py and update the following variables at the top of the file: 'worldToTiled.py'
 
 'world_name'
 
