@@ -359,7 +359,8 @@ class StarboundToTiledUI:
                 obj = {
                     "name": object_name,
                     "tilePosition": tile_position,
-                    "orientationIndex": data.get("orientationIndex"),
+#                    "orientationIndex": data.get("orientationIndex"),
+                    "direction": data.get("direction"),
                     "parameters": data.get("parameters", {}),
                     "inputWireNodes": data.get("inputWireNodes", []),
                     "outputWireNodes": data.get("outputWireNodes", [])
@@ -581,12 +582,12 @@ class StarboundToTiledUI:
             object_layer = map_data["layers"][4]  # "objects"
             for obj in object_entities:
                 tile_x, tile_y = obj["tilePosition"]
-                direction = "right" if obj["orientationIndex"] == 1 else "left"
+#                direction = "right" if obj["orientationIndex"] == 1 else "left"
                 param_data = obj.get("parameters", {})
 
                 properties = [
                     {"name": "object", "type": "string", "value": obj["name"]},
-                    {"name": "tilesetDirection", "type": "string", "value": direction}
+                    {"name": "tilesetDirection", "type": "string", "value": obj["direction"]}
                 ]
                 if param_data:
                     properties.append({
