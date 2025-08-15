@@ -1,6 +1,6 @@
 # Starbound World Conversion Guide
 
-## 1. Install OpenStarbound
+## 1. Install OpenStarbound and extract config data
 Make sure **OpenStarbound** is installed. After launching the game, run the following commands to extract the tile and wire configurations data.
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
