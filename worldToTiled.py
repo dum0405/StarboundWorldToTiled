@@ -322,6 +322,7 @@ class StarboundToTiledUI:
         monster_list = []
         npc_list = []
         object_list = []
+        vehicle_list = []
 
         for entity in entities:
             if getattr(entity, "name", None) == "MonsterEntity":
@@ -387,7 +388,19 @@ class StarboundToTiledUI:
 
                 object_list.append(obj)
 
-        return monster_list, npc_list, object_list
+            elif getattr(entity, "name", None) == "VehicleEntity":
+                data = entity.data
+                position = data.get("state", {}).get("movement", {}).get("position", [0, 0])
+                obj = {
+                    "name": data.get("name", {}),
+                    "dynamicConfig": data.get("dynamicConfig", {}),
+                    "position": [int(position[0]), int(position[1])],
+                }
+                vehicle_list.append(obj)
+#                print(entity.data)
+#                print('vehicle_list', vehicle_list)
+
+        return monster_list, npc_list, object_list, vehicle_list
 
     def named_to_gid(self, tileset_name, local_id, tilesets):
         if tileset_name == "empty":
@@ -510,7 +523,7 @@ class StarboundToTiledUI:
 
         return polylines, current_id
 
-    def create_tiled_map_json(self, world_name, tileset_paths, fbase64_data, bbase64_data, lbase64_data, width, height, tilesets, monster_entities=None, npc_entities=None, object_entities=None, object_output_nodes=None, object_input_nodes=None):
+    def create_tiled_map_json(self, world_name, tileset_paths, fbase64_data, bbase64_data, lbase64_data, width, height, tilesets, monster_entities=None, npc_entities=None, object_entities=None, vehicle_entities=None, object_output_nodes=None, object_input_nodes=None):
         # Create .json file path
         filename = os.path.splitext(os.path.basename(world_name))[0] + ".json"
         json_path = os.path.join(self.map_save_path.get(), filename)
@@ -562,8 +575,8 @@ class StarboundToTiledUI:
                 make_layer(6, "wiring", 1),
                 make_layer(7, "monsters", 1),
                 make_layer(8, "npcs", 1),
-                make_layer(9, "anchors etc", 1),
-                make_layer(10, "items", 1),
+                make_layer(9, "vehicles", 1),
+                make_layer(10, "anchors etc", 1),
             ],
             "nextlayerid": 11,
             "nextobjectid": 1,
@@ -703,6 +716,40 @@ class StarboundToTiledUI:
 
                 current_id += 1
 
+        # Process vehicle_entities
+        if vehicle_entities:
+            vehicle_layer = map_data["layers"][8]  # "vehicles"
+            vehicle_layer["color"] = "#8F00FF"
+            for vehicle in vehicle_entities:
+#                print('vehicle', vehicle)
+                x, y = vehicle.get("position", [0, 0])
+                param_data = vehicle.get("dynamicConfig", {})
+
+                properties = [
+                    {"name": "vehicle", "type": "string", "value": vehicle.get("name", "")},
+                ]
+                if param_data:
+                    properties.append({
+                        "name": "parameters",
+                        "type": "string",
+                        "value": json.dumps(param_data, ensure_ascii=False)
+                    })
+
+                vehicle_layer["objects"].append({
+                    "height": 8,
+                    "width": 8,
+                    "id": current_id,
+                    "name": "",
+                    "type": "",
+                    "rotation": 0,
+                    "visible": True,
+                    "x": x * 8,
+                    "y": (height - y - 1) * 8,
+                    "properties": properties
+                })
+
+                current_id += 1
+
         # Update final object ID
         map_data["nextobjectid"] = current_id
 
@@ -823,6 +870,7 @@ class StarboundToTiledUI:
                 monster_list = []
                 object_list = []
                 npc_list = []
+                vehicle_list = []
 
                 # Storage space for object input/output points
                 object_output_nodes = {}
@@ -850,9 +898,10 @@ class StarboundToTiledUI:
                                 tile_map[wy, wx] = tiles[idx]
 
                     # Extract and accumulate entities
-                    monsters, npcs, objects = self.extract_entities(entities, world_height, object_nodes, object_input_nodes, object_output_nodes)
+                    monsters, npcs, objects, vehicles = self.extract_entities(entities, world_height, object_nodes, object_input_nodes, object_output_nodes)
                     monster_list.extend(monsters)
                     npc_list.extend(npcs)
+                    vehicle_list.extend(vehicles)
                     object_list.extend(objects)
 
                 self.status_label.config(text="Processing tile data...", fg="orange")
@@ -936,7 +985,7 @@ class StarboundToTiledUI:
                     front_base64_data, back_base64_data, liquid_base64_data,
                     world_width, world_height,
                     tilesets,
-                    monster_list, npc_list, object_list,
+                    monster_list, npc_list, object_list, vehicle_list,
                     object_output_nodes, object_input_nodes
                 )
 
